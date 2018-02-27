@@ -16,5 +16,4 @@ class FirstNonRepeatingWordTest {
     public void nullInput() {
         instance.firstNonRepeatingWord(null);
     }
-
 }
