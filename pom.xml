@@ -54,6 +54,7 @@
     <module>codility</module>
     <module>programming-interviews-exposed</module>
     <module>leetcode</module>
+    <module>general</module>
   </modules>
   <dependencies>
     <dependency>
