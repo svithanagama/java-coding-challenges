@@ -1,6 +1,7 @@
 package me.sanjayav.general;
 
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
 /**
  * Unit test for simple App.
@@ -8,7 +9,7 @@ import org.junit.jupiter.api.Assertions;
 public class AppTest
 {
 
-    @org.junit.jupiter.api.Test
+    @Test
     public void testApp()
     {
         Assertions.assertTrue(true);
