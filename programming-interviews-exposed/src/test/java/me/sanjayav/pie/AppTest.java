@@ -5,7 +5,6 @@ import org.hamcrest.CoreMatchers;
 import org.hamcrest.MatcherAssert;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.mockito.Mock;
 
 /**
  * Unit test for simple App.
@@ -22,6 +21,6 @@ public class AppTest
     @Test
     public void hamcrestWorks()
     {
-        MatcherAssert.assertThat(true , CoreMatchers.is(true));
+        MatcherAssert.assertThat(true, CoreMatchers.is(true));
     }
 }
