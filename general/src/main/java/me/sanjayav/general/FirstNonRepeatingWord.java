@@ -9,7 +9,7 @@ package me.sanjayav.general;
  */
 public class FirstNonRepeatingWord
 {
-    public String firstNonRepeatingWord(String fileName)
+    public String firstNonRepeatingWord(String inputText)
     {
         return null;
     }
